@@ -1,3 +1,3 @@
 # Uni-Classrooms-Database
 
-* Refer to `enunciado.pdf` for the details of the project.
+* Refer to `enunciado_projetoLP.pdf` for the details of the project.
